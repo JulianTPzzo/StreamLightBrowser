@@ -12,14 +12,6 @@ Este proyecto es un navegador web personalizado diseñado para ser ligero en el 
 - Interfaz de usuario moderna y amigable.
 - Personalizable y extensible.
 
-## Requisitos
-
-Asegúrate de tener las siguientes herramientas instaladas en tu sistema antes de ejecutar el proyecto:
-
-- [Rust](https://www.rust-lang.org/): Necesario para compilar y ejecutar Tauri.
-- [Node.js](https://nodejs.org/): Requerido para instalar y ejecutar dependencias de JavaScript.
-- [npm](https://www.npmjs.com/): Gestor de paquetes de Node.js.
-- 
 ##Descargas
 Puedes descargar las últimas versiones de este navegador personalizado para tu sistema operativo desde los siguientes enlaces:
 
