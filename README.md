@@ -16,4 +16,7 @@ Este proyecto es un navegador web personalizado diseñado para ser ligero en el 
 Puedes descargar las últimas versiones de este navegador personalizado para tu sistema operativo desde los siguientes enlaces:
 
 Descargar para Windows
+
 <a href="https://github.com/JulianTPzzo/StreamLightBrowser/blob/main/msi/StreamerLightBrowser_0.0.0_x64_en-US.msi" target="blank">MSI</a>
+
+<a href="https://github.com/JulianTPzzo/StreamLightBrowser/blob/main/nsis/StreamerLightBrowser_0.0.0_x64-setup.exe" target="blank">MSI</a>
