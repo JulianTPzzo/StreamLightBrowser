@@ -19,14 +19,7 @@ Asegúrate de tener las siguientes herramientas instaladas en tu sistema antes d
 - [Rust](https://www.rust-lang.org/): Necesario para compilar y ejecutar Tauri.
 - [Node.js](https://nodejs.org/): Requerido para instalar y ejecutar dependencias de JavaScript.
 - [npm](https://www.npmjs.com/): Gestor de paquetes de Node.js.
-
-## Instalación
-
-1. Clona este repositorio en tu máquina local:
-
-```bash
-git clone https://github.com/tuusuario/tu-proyecto.git
-
+- 
 ##Descargas
 Puedes descargar las últimas versiones de este navegador personalizado para tu sistema operativo desde los siguientes enlaces:
 
